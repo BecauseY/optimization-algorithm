@@ -13,3 +13,7 @@
 ### 3.SA(Simulated annealing):模拟退火算法。（无种群概念，只有一个个体自行更新）
 
 #### 详细见简书：https://www.jianshu.com/p/57c93af3f61a
+
+### 4.ACO(ant colony optimization):蚁群算法。（有种群概念，每个个体的路径就是解。多用于求最优路径，如解决TSP旅行商问题）
+
+#### 详细见简书：https://www.jianshu.com/p/5d4845814a28
